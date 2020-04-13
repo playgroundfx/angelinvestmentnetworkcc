@@ -22,7 +22,7 @@ summaryLength = 30
     weight = 2
 
 [params]
-  google_analytics_id = ""
+  google_analytics_id = "UA-163514124-1"
   homepage_button_link = '/posts'
   homepage_button_text = 'Read The Posts'
   homepage_intro = 'Angel Investment Network is a bridge between startups and investors.'
