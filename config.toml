@@ -1,4 +1,4 @@
-baseURL = "https://angelinvestmentnetwork.cc/"
+baseURL = "https://www.angelinvestmentnetwork.cc/"
 languageCode = "en-us"
 title = "Angel Investment Network"
 theme = "hugo-whisper-theme"
@@ -23,7 +23,7 @@ summaryLength = 30
 
 [[menu.main]]
     name = "bounty.gold"
-    url = "https://bounty.gold/"
+    url = "https://www.bounty.gold/"
     weight = 2
 
 [params]
